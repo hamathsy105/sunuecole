@@ -1,0 +1,1 @@
+DROP FUNCTION public.submit_payment_proof(text);
